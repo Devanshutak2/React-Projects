@@ -1,0 +1,18 @@
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/Devanshutak2/todo-app.git
+[submodule "drag-drop-task"]
+	path = drag-drop-task
+	url = https://github.com/Devanshutak2/drag-drop-task.git
+[submodule "assignment-app"]
+	path = assignment-app
+	url = https://github.com/Devanshutak2/assignment-app.git
+[submodule "datagrid"]
+	path = datagrid
+	url = https://github.com/Devanshutak2/datagrid.git
+[submodule "fun-game"]
+	path = fun-game
+	url = https://github.com/Devanshutak2/fun-game.git
+[submodule "personal-portfolio"]
+	path = personal-portfolio
+	url = https://github.com/Devanshutak2/personal-portfolio.git
